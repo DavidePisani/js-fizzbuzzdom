@@ -6,7 +6,7 @@
 // Per i numeri che sono sia multipli di 3 che di 5 stampi FizzBuzz.
 // Stampare in console.
 
-for(i = 1; i <= 100; i++){
+for( let i = 1; i <= 100; i++){
 
     let fizzBuzzClassName;
 
