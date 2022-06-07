@@ -9,7 +9,7 @@
 for( let i = 1; i <= 100; i++){
 
     let fizzBuzzClassName;
-
+// calcolo multipli
     if(i % 3 === 0 && i % 5 === 0){
         fizzBuzzClassName='FizzBuzz'
 
@@ -22,6 +22,6 @@ for( let i = 1; i <= 100; i++){
     } else {
         fizzBuzzClassName=i
     }
-
+// stampo in console
     console.log(fizzBuzzClassName)
 }
